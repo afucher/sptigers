@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `São Paulo Tigers`,
     description: `Uma das equipes de flag football mais antigas e tradicionais em atividade no estado de São Paulo.`,
+    author: `SPTigers`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
